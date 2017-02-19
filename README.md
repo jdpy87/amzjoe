@@ -1,2 +1,1 @@
-# amzjoe
-This is basically the root of all my projects.
+U2FsdGVkX1/Kyv//ysr//1C2ZbHAD+hwX8eQXS5uh3XkVPgMj2IKDreveQTj9Upy
